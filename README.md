@@ -7,4 +7,6 @@ The website has a dashboard displaying the status of tasks that need to be done,
 to be notified of upcoming tasks.
 Users can reset their password, change their emails, and change their display name.
 The task management web application aims to address the challenge of organizing and tracking daily, monthly, and yearly tasks in a centralized and user-friendly platform. The project's primary goal is to provide users with a seamless experience for inputting, prioritizing, and managing tasks to enhance users' productivity and time management skills. 
+
+
 ![alt text](https://github.com/alexstudent13/goalforge-app/blob/main/GoalForge%20Pictures/unnamed.png)
