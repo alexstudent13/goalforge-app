@@ -1,0 +1,58 @@
+/* Define color themes using CSS variables */
+:root {
+    /* Light theme colors */
+    --background-color: #fff;
+    --text-color: #212529;
+    --navbar-background: #f8f9fa;
+    --navbar-text: #212529;
+    --card-background: #fff;
+    --border-color: #dee2e6;
+    --button-hover-color: #50575d;
+    --button-text-hover-color: #333;
+    body {
+        background-color: var(--background-color);
+        color: var(--text-color);
+    }
+
+    .navbar, .card {
+        background-color: var(--card-background);
+        border-color: var(--border-color);
+    }
+
+    .navbar {
+        color: var(--navbar-text);
+    }
+}
+
+[data-theme="dark"] {
+    /* Dark theme colors */
+    --background-color: #343a40;
+    --text-color: #e1e1e1;
+    --navbar-background: #23272b;
+    --navbar-text: #ffffff;
+    --card-background: #495057;
+    --border-color: #343a40;
+    --button-hover-color: #e2e6ea;
+    --button-text-hover-color: #333;
+    body {
+        background-color: var(--background-color);
+        color: var(--text-color);
+    }
+
+    .navbar, .card {
+        background-color: var(--card-background);
+        border-color: var(--border-color);
+    }
+
+    .navbar {
+        color: var(--navbar-text);
+    }
+}
+#theme-toggle {
+    transition: background-color 0.3s ease;
+}
+
+#theme-toggle:hover {
+    background-color: var(--button-hover-color);
+    color: var(--button-text-hover-color);
+}

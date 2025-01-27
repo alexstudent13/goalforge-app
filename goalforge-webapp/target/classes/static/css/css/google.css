@@ -1,0 +1,84 @@
+/* General body styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    margin-top: 20px;
+}
+
+/* Header styles */
+h2 {
+    color: #0d6efd;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/* Button styles */
+button {
+    font-size: 16px;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+
+/* Styling the form for better appearance */
+form {
+    padding: 5px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Improve the visibility and layout of input fields and labels */
+input[type="text"],
+input[type="date"],
+input[type="time"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+label {
+    font-weight: bold;
+    color: #666;
+}
+
+/* Enhancing the visibility of the form and buttons when shown */
+#authorize_button, #signout_button, #event_form {
+    display: block; /* initially set to none via JS if needed */
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+/* Customizing the calendar link appearance */
+#calendarLink {
+    display: block; /* control with JS as needed */
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Pre element styling for better readability */
+pre {
+    background-color: #eee;
+    padding: 20px;
+    border-radius: 5px;
+    font-size: 0.9rem;
+}
+
+.fa-google {
+    background:
+            linear-gradient(to bottom left,transparent 49%,#fbbc05 50%) 0 25%/48% 40%,
+            linear-gradient(to top    left,transparent 49%,#fbbc05 50%) 0 75%/48% 40%,
+            linear-gradient(-40deg ,transparent 53%,#ea4335 54%),
+            linear-gradient( 45deg ,transparent 46%,#4285f4 48%),
+            #34a853;
+    background-repeat:no-repeat;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    -webkit-text-fill-color: transparent;
+}
