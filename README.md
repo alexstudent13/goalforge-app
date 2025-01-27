@@ -10,3 +10,6 @@ The task management web application aims to address the challenge of organizing 
 
 
 ![alt text](https://github.com/alexstudent13/goalforge-app/blob/main/GoalForge%20Pictures/unnamed.png) ![alt text](https://github.com/alexstudent13/goalforge-app/blob/main/GoalForge%20Pictures/unnamed%20(1).png) 
+![alt text](https://github.com/alexstudent13/goalforge-app/blob/main/GoalForge%20Pictures/unnamed%20(2).png) ![alt text](https://github.com/alexstudent13/goalforge-app/blob/main/GoalForge%20Pictures/unnamed%20(3).png)
+![alt text](https://github.com/alexstudent13/goalforge-app/blob/main/GoalForge%20Pictures/unnamed%20(4).png) ![alt text](https://github.com/alexstudent13/goalforge-app/blob/main/GoalForge%20Pictures/unnamed%20(5).png)
+![alt text](https://github.com/alexstudent13/goalforge-app/blob/main/GoalForge%20Pictures/unnamed%20(6).png) ![alt text](https://github.com/alexstudent13/goalforge-app/blob/main/GoalForge%20Pictures/unnamed%20(7).png)
