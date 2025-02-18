@@ -1,5 +1,4 @@
 # goalforge-app
-Developed Task Management Web Application Local Host
 GoalForge is a task management website that was developed with a focus in giving users the ability to better manage their goals, agendas, or any to-dos that users need to complete.
 The system’s key functionalities include user registration and authentication, task creation and organization, notification and reminder services, integration of external APIs, etc.
 The website is not hosted online but runs locally and is connected to a locally hosted database using MySQL.
